@@ -4,3 +4,6 @@ A comprehensive study on trained models. This repository contains Jupyter Notebo
 
 ## Installation
 To run this project, make sure you have Python and the necessary dependencies installed. 
+
+Acknowledgments
+This research was supported by Instituto Politécnico de Lisboa (IPL) under Grant IPL/IDI&CA2024/ML4EP_ISEL.
